@@ -1,4 +1,4 @@
-	/*
+/*
     Naut 4.1
     Stylesheet by /u/Cryptonaut
     Maintained by /u/RenegadeAI & /u/LackingAGoodName
@@ -13,11 +13,12 @@
     box-sizing: border-box;
 }
 
-/* Hide mods
-#moderator-table tr:first-child, .sidecontentbox .author.id-t2_hz47t   /* Gorski Car */  
-{     
-	display: none 
+/* Hide mod Gorski Car 
+#moderator-table tr:first-child, .sidecontentbox .author.id-t2_hz47t    
+{
+	 display: none 
 }
+*/
 
 /* gray background color change*/
 body {
