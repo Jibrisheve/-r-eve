@@ -13,6 +13,11 @@
     box-sizing: border-box;
 }
 
+/* Hide mods
+#moderator-table tr:first-child, .sidecontentbox .author.id-t2_hz47t   /* Gorski Car */  
+{     
+	display: none 
+}
 
 /* gray background color change*/
 body {
