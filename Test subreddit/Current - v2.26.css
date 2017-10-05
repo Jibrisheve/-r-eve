@@ -3740,7 +3740,7 @@ ul.image-preview-list {
 }
 
 .res #RESShortcutsViewport {
-    margin-right: 381px;
+    margin-right: 0px;
 }
 
 .res #RESShortcutsEditContainer {
@@ -3751,7 +3751,8 @@ ul.image-preview-list {
     background-color: transparent !important;
     color: rgba(255,255,255,0.45) !important;
     top: 1px !important;
-    padding-right: 23px;
+    padding-right: 0px;
+    margin-right: auto;
 }
 
 .res #RESShortcuts {
