@@ -3799,7 +3799,9 @@ ul.image-preview-list {
     top: 1px;
     border-radius: 0;
     height: 18px;
-    padding: 0 8px 0 0;
+    margin-top: 23px;
+    padding: 0px 10px 25px 10px;
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .res #userbarToggle {
