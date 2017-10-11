@@ -3651,6 +3651,7 @@ ul.image-preview-list li {
     color: #010101;
     padding-left: 0;
     margin-right: inherit
+    padding-top: 4px;
 }
 
 .link .flair {
