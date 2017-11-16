@@ -4295,4 +4295,7 @@ body.other-discussions-page>.content {
 
 .flair-ag {
     background: url(%%ag%%) no-repeat;
+    text-indent: 30px;
+    min-width: 28px;
+    height: 25px;
 }
