@@ -3387,16 +3387,6 @@ body.other-discussions-page>.content {
     max-width: 320px;
     padding: 0
 }
-.flair-AT,
-.flair-CSM {
-    background-color: #000;
-    background-image: none;
-    font-weight: 700;
-    height: auto;
-    padding: 2px;
-    text-indent: 0;
-    width: auto
-}
 #ad_sponsorship {
     margin: 10px
 }
@@ -3580,6 +3570,13 @@ body.other-discussions-page>.content {
         opacity: 0
     }
 }
+
+.flair {
+    text-indent: 30px;
+    min-width: 28px;
+    height: 25px;
+}
+
 .flair-CSM {
     color: orange;
 }
@@ -3602,8 +3599,13 @@ body.other-discussions-page>.content {
     height: 25px;
 }
 
-.flair {
-    text-indent: 30px;
-    min-width: 28px;
-    height: 25px;
+.flair-AT,
+.flair-CSM {
+    background-color: #000;
+    background-image: none;
+    font-weight: 700;
+    height: auto;
+    padding: 2px;
+    text-indent: 0;
+    width: auto
 }
