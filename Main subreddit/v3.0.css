@@ -4299,3 +4299,9 @@ body.other-discussions-page>.content {
     min-width: 28px;
     height: 25px;
 }
+
+.flair {
+    text-indent: 30px !important;
+    min-width: 28px !important;
+    height: 25px !important;
+}
