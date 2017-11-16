@@ -3581,25 +3581,21 @@ body.other-discussions-page>.content {
     }
 }
 .flair-CSM {
-    color: orange;
     border: none;
     border-radius: 0;
     font: 400 12px Lato, Arial, sans-serif;
-    background: 0 0;
-    color: #010101;
     padding-left: 0;
-    margin-right: inherit
+    margin-right: inherit;
+    color: orange;
 }
 
 .flair-AT {
-    color: #0ff;
     border: none;
     border-radius: 0;
     font: 400 12px Lato, Arial, sans-serif;
-    background: 0 0;
-    color: #010101;
     padding-left: 0;
     margin-right: inherit;
+    color: #0ff;
 }
 
 .flair-ccp {
