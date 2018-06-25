@@ -3609,3 +3609,12 @@ body.other-discussions-page>.content {
     text-indent: 0;
     width: auto
 }
+
+.flair-CSMNC {
+    color: orange
+}
+
+.flair-CSMNC {
+    background: url(%%a%%) 0 -2600px repeat-y
+
+}
